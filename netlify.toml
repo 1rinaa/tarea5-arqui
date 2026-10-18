@@ -1,6 +1,6 @@
 [build]
   base = "blog-noticias"
-  publish = "blog-noticias/.output/public"
+  publish = ".output/public"
   command = "npm run generate"
 
 [[redirects]]
