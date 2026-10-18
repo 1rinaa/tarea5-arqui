@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+blog-noticias/node_modules/
+
+# Nuxt build outputs
+.output/
+.data/
+.nuxt/
+.nitro/
+dist/
+blog-noticias/.output/
+blog-noticias/.data/
+blog-noticias/.nuxt/
+blog-noticias/.nitro/
+
+# Logs & OS
+*.log
+.DS_Store
+Thumbs.db
