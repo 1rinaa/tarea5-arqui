@@ -3,6 +3,9 @@
   publish = ".output/public"
   command = "npm run generate"
 
+[build.environment]
+  NODE_VERSION = "20"
+
 [[redirects]]
   from = "/"
   to = "/blog"
