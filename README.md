@@ -11,7 +11,7 @@ Irina Rivera Chavarría
 
 ## Link del sitio web publicado
 
-[https://diariocr.netlify.app/blog](https://diariocr.netlify.app/blog)
+[https://noticiascr.netlify.app/blog](https://noticiascr.netlify.app/blog)
 
 ## Repositorio de GitHub (Código & Comentarios)
 

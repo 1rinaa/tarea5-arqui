@@ -1,0 +1,10 @@
+[build]
+  base = "blog-noticias"
+  publish = "blog-noticias/.output/public"
+  command = "npm run generate"
+
+[[redirects]]
+  from = "/"
+  to = "/blog"
+  status = 301
+  force = true
